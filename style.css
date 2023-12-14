@@ -59,11 +59,10 @@ section h2 {
   color: #e91e63;
 }
 
-section h2:hover{
-  color:blue;
 }
 #edu:hover {
-  color: white
+  color: white;
+  font-weight: 500;
 }
 
 .background-image {
