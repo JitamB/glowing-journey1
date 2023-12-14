@@ -63,6 +63,7 @@ section h2 {
 .edu:hover {
   color: white;
   font-weight: 530;
+  background-color: grey;
 }
 
 .background-image {
