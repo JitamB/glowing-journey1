@@ -59,6 +59,9 @@ section h2 {
   color: #e91e63;
 }
 
+#edu:hover {
+  text-color: white
+}
 
 .background-image {
   background-size: cover;
