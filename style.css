@@ -60,10 +60,11 @@ section h2 {
 }
 .education{
   opacity:0.7;
+  font-weight: 540;
 }
 
 .education:hover {
-  text-color: white;
+  color: white;
   font-weight: 550;
   opacity: 1;
 }
