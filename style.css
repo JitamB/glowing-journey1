@@ -71,6 +71,9 @@ section h2 {
   opacity: 0.5;
 }
 
+.background-image:hover{
+  opacity: 1;
+}
 
 ul {
   list-style: none;
